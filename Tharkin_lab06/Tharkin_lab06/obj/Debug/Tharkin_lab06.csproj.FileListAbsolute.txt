@@ -1,0 +1,4 @@
+\\kc.umkc.edu\kc-users\home\t\tvppf\my documents\visual studio 2010\Projects\Tharkin_lab06\Tharkin_lab06\bin\Tharkin_lab06.dll
+\\kc.umkc.edu\kc-users\home\t\tvppf\my documents\visual studio 2010\Projects\Tharkin_lab06\Tharkin_lab06\bin\Tharkin_lab06.pdb
+\\kc.umkc.edu\kc-users\home\t\tvppf\my documents\visual studio 2010\Projects\Tharkin_lab06\Tharkin_lab06\obj\Debug\Tharkin_lab06.dll
+\\kc.umkc.edu\kc-users\home\t\tvppf\my documents\visual studio 2010\Projects\Tharkin_lab06\Tharkin_lab06\obj\Debug\Tharkin_lab06.pdb
